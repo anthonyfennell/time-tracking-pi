@@ -34,7 +34,8 @@ The program sets up the Pi to use a pull down* resistor on each pin that a butto
 - Button 2 :: 13 (BCM 27)
 - Button 3 :: 12 (BCM 18)
 - Button 4 :: 18 (BCM 24)
-### LCD pin - Pi pin (4-bit mode)
+### LCD pin - Pi pin
+The LCD is setup in 4-bit mode in order to use less wires from the Pi to the LCD.
 - Pin 1 :: Pi 6 **GND**
 - Pin 2 :: Pi 2 **5V**
 - Pin 3 :: Potentiometer center pin (Other sides go to GND and 5V)
