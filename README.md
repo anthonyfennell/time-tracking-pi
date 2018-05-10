@@ -42,7 +42,7 @@ The LCD is setup in 4-bit mode in order to use less wires from the Pi to the LCD
 - Pin 4 :: Pi 15
 - Pin 5 :: Pi 6 **GND**
 - Pin 6 :: Pi 16
-- Pin 11 :: Pi 37
+- Pin 11 :: Pi 36
 - Pin 12 :: Pi 33
 - Pin 13 :: Pi 31
 - Pin 14 :: Pi 29
