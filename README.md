@@ -24,7 +24,11 @@ The LCD I am using is 16x2.
 
 
 # Helpful Places
-[Using GPIO pins](https://learn.sparkfun.com/tutorials/raspberry-gpio/python-rpigpio-api)
-[SSH into pi](https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md)
-[Run program on boot](https://www.raspberrypi.org/documentation/linux/usage/rc-local.md)
-[Setup LCD](http://www.circuitbasics.com/raspberry-pi-lcd-set-up-and-programming-in-python/)
+[Using the GPIO pins](https://learn.sparkfun.com/tutorials/raspberry-gpio/python-rpigpio-api)
+
+[SSH into a raspberry pi](https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md)
+
+[Run a program on boot](https://www.raspberrypi.org/documentation/linux/usage/rc-local.md)
+
+[Setup an LCD with your pi](http://www.circuitbasics.com/raspberry-pi-lcd-set-up-and-programming-in-python/)
+
